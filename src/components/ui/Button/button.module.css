@@ -1,0 +1,38 @@
+.btn {
+  line-height: 30px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.btn-delete {
+  background-color: transparent;
+  border: none;
+  padding: 7px;
+  outline: none;
+  color: red;
+  font-size: 18px;
+}
+.btn-select {
+  background-color: transparent;
+  border: none;
+  padding: 7px;
+  outline: none;
+}
+.btn-complete {
+  background-color: transparent;
+  border: none;
+  padding: 7px;
+  outline: none;
+  color: gold;
+}
+.btn-add {
+  background-color: transparent;
+  border-radius: 15px;
+  border: 2px solid #028cbd;
+  color: #028cbd;
+}
+.btn-change {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  font-size: 14px;
+}

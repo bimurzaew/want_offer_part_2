@@ -1,0 +1,30 @@
+.main {
+  width: 650px;
+  margin: auto;
+  font-size: 20px;
+  text-align: center;
+}
+.form {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.content {
+  margin-top: 60px;
+}
+.todos {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+  align-items: center;
+}
+.select {
+  background-color: #00b8ff;
+  border-radius: 10px;
+}
+.text {
+  justify-content: space-around;
+}
+span {
+  font-size: 12px;
+}
